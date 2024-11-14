@@ -11,6 +11,6 @@ A real-time motion detection system built using Kalman Filtering and Convolution
 ## Tech Stack
 - **Languages:** Python
 - **Libraries:** OpenCV, TensorFlow, Keras, NumPy, SciPy
-- **Tools:** Kaggle Notebook (for testing and visualization)
+- **Tools:** Jupyter Notebook (for testing and visualization)
 
 
